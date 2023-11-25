@@ -29,7 +29,7 @@ simplejson==3.19.1
 Sphinx==7.0.1
 streamlit==1.22.0
 streamlit_chat==0.0.2.2
-langchain==0.0.154
+langchain
 PyPDF2
 python-dotenv
 streamlit
