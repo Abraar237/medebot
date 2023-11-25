@@ -30,11 +30,11 @@ Sphinx==7.0.1
 streamlit==1.22.0
 streamlit_chat==0.0.2.2
 langchain==0.0.154
-PyPDF2==3.0.1
-python-dotenv==1.0.0
-streamlit==1.18.1
-faiss-cpu==1.7.4
-altair<5
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
 
 openai
 tiktoken
