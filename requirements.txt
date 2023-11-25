@@ -37,3 +37,4 @@ xmlrpclib==1.0.1
 zstandard==0.21.0
 tiktokens
 Cython
+cython
