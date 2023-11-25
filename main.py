@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_chat import message
 from dotenv import load_dotenv
 import os
-
+import openai
 # Import necessary modules from custom packages
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
